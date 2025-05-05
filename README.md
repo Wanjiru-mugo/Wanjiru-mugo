@@ -35,8 +35,7 @@ https://sites.google.com/view/wanjirumugo/home
 
 ## Get in Touch 📬
 
-- [Personal Website / Blog](https://sites.google.com/view/wanjirumugo/home)
-- [LinkedIn](www.linkedin.com/in/marymugo)
-- [X]((https://x.com/404MariaFound))
-
+- **[Personal Website / Blog]**(https://sites.google.com/view/wanjirumugo/home)
+- **[LinkedIn]**(www.linkedin.com/in/marymugo)
+- **[Twitter]**(https://x.com/404MariaFound)
 
