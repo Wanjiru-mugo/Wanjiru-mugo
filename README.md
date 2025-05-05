@@ -37,6 +37,6 @@ https://sites.google.com/view/wanjirumugo/home
 
 - [Personal Website / Blog](https://sites.google.com/view/wanjirumugo/home)
 - [LinkedIn](www.linkedin.com/in/marymugo)
-- [Twitter]((https://x.com/404MariaFound))
+- [X]((https://x.com/404MariaFound))
 
 
